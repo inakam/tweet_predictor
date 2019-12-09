@@ -1,0 +1,1 @@
+Tweet data is saved in the directory.
